@@ -8,15 +8,10 @@ This project is built for learning, academic submission, and real-world simulati
 📝 About the Project
 
 Flight Hub is a simple and efficient system that helps users:
-
 Search for flights
-
 Book tickets
-
 Manage bookings
-
 View schedules
-
 Administer airline data (admin panel)
 
 It is designed to demonstrate concepts like CRUD operations, session handling, UI design, and database connectivity.
@@ -26,52 +21,35 @@ It is designed to demonstrate concepts like CRUD operations, session handling, U
 ✈️ User Features
 
 Search flights by source, destination, and date
-
 Book flight tickets
-
 View ticket details
-
 Manage profile
-
 Download ticket
 
 🛠 Admin Features
 
 Add, edit, delete flights
-
 Manage schedules
-
 View all bookings
-
 Manage passengers
-
 Dashboard with analytics
 
 🎯 Additional Features
 
 Form validation
-
 Login/Signup
-
 Responsive UI
-
 Error handling
 
 🧰 Tech Stack
+
 Frontend
-
 HTML5
-
 CSS3
-
 JavaScript
-
 Backend
-
  PHP  
-
 Database
-
 MySQL 
 
 Screenshot :
